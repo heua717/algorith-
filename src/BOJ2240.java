@@ -5,7 +5,6 @@ import java.util.StringTokenizer;
 
 public class BOJ2240 {
     static int T, W, plumCnt = 1, max;
-
     static int plumsum[][], dp[][];
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     public static void main(String[] args) throws IOException {
