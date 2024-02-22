@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bbf1fd5d-6093-47e2-9c50-472fe52b93a5" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ2225.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ2225.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +35,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.BOJ2240">
-    <configuration name="BOJ12869" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ12869" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ2056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2056" />
+  <component name="RunManager" selected="애플리케이션.BOJ4811">
+    <configuration name="BOJ19237" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ19237" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,12 +57,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ4811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ4811" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BOJ4811" />
+        <item itemvalue="애플리케이션.Main" />
+        <item itemvalue="애플리케이션.BOJ19237" />
         <item itemvalue="애플리케이션.BOJ2240" />
         <item itemvalue="애플리케이션.BOJ3190" />
-        <item itemvalue="애플리케이션.BOJ12869" />
-        <item itemvalue="애플리케이션.BOJ2056" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +129,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BOJ19237.java</url>
+          <line>73</line>
+          <properties class="BOJ19237" method="moveShark">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
