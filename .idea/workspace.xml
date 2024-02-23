@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbf1fd5d-6093-47e2-9c50-472fe52b93a5" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.BOJ14567">
+  <component name="RunManager" selected="애플리케이션.BOJ2616">
     <configuration name="BOJ14567" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BOJ14567" />
       <module name="algorithm" />
@@ -51,8 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2240" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ2240" />
+    <configuration name="BOJ2616" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ2616" />
       <module name="algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.BOJ2616" />
         <item itemvalue="애플리케이션.BOJ14567" />
         <item itemvalue="애플리케이션.BOJ4811" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.BOJ19237" />
-        <item itemvalue="애플리케이션.BOJ2240" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +130,11 @@
           <url>file://$PROJECT_DIR$/src/BOJ14567.java</url>
           <line>31</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BOJ2616.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BOJ12869.java</url>
