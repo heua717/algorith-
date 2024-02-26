@@ -30,10 +30,12 @@ public class BOJ7579 {
         for (int i = 1; i <= N; i++) {
             dp[i][C[i]] = A[i];
         }
+        int x = 0;
         for (int i = 1; i <= N; i++) {
             int a = A[i];
             int c = C[i];
-            for (int j = 0; j <= memory; j++) {
+            x += c;
+            for (int j = 0; j <= x; j++) {
                 if (j >= c) {
                     dp[i][j] = Math.max(dp[i - 1][j - c] + a,dp[i-1][j]);
                 } else {
