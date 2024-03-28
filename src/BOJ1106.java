@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main {
+public class BOJ1106 {
     static int C, N;
     static int value[], dp[];
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
