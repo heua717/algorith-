@@ -181,6 +181,7 @@ public class BOJ23290 {
         }
     }
 
+    // 상어의 최적의 이동경로 파악하기
     static int shark_moveVerify(int s[]) {
         visited = new boolean[5][5];
         int eat = 0;
